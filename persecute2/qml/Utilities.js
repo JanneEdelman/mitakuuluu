@@ -330,7 +330,7 @@ var softbank_replacer = {
     '\u2754':'\uE336', // Unified: 2754
     '\uD83D\uDCA4':'\uE13C', // Unified: 1F4A4
     '\uD83D\uDCA8':'\uE330', // Unified: 1F4A8
-    '\uD83D\uDE05':'\uE415', // Unified: 1F605
+    //'\uD83D\uDE05':'\uE331', // Unified: 1F605
     '\uD83C\uDFB6':'\uE326', // Unified: 1F3B6
     '\uD83C\uDFB5':'\uE03E', // Unified: 1F3B5
     '\uD83D\uDD25':'\uE11D', // Unified: 1F525
